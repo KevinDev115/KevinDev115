@@ -1,4 +1,4 @@
-<h1 align="center">Hi whats up!, I'm Kevin Galindo 💻 </h1>
+<h1 align="center">Hi!, I'm Kevin Galindo 💻 </h1>
 <h3 align="center">A passionate full stack developer from Colombia 🟡🔵🔴  </h3>
 
 I am passionate about web and mobile programming, with more than 3 years of experience as full stack development, managing high quality, scalability and good practices in my developments, with extensive experience in various programming languages.
